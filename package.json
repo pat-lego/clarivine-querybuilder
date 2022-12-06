@@ -1,0 +1,25 @@
+{
+  "name": "com.adobe.aem.support",
+  "version": "1.0.0",
+  "description": "A utility that showcases how to use QueryBuilder for Colton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pat-lego/clarivine-querybuilder.git"
+  },
+  "keywords": [
+    "querybuilder",
+    "aem",
+    "json",
+    "pagination"
+  ],
+  "author": "Pat Legault",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pat-lego/clarivine-querybuilder/issues"
+  },
+  "homepage": "https://github.com/pat-lego/clarivine-querybuilder#readme"
+}
