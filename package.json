@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/pat-lego/clarivine-querybuilder/issues"
   },
-  "homepage": "https://github.com/pat-lego/clarivine-querybuilder#readme"
+  "homepage": "https://github.com/pat-lego/clarivine-querybuilder#readme",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "moment": "^2.29.4",
+    "readline-sync": "^1.4.10"
+  }
 }
